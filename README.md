@@ -1,0 +1,1 @@
+# SZMK_GeneratePass
